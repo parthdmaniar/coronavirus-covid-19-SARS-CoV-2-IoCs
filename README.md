@@ -14,7 +14,11 @@ DO NOT CLICK  ON ANY URLs or VISIT IP Addresses, their current state is unknown 
 
 Wishing everyone good health.
 
-Last updated: 0034 hrs IST on 24-03-2020
+Last updated: 0116 hrs IST on 24-03-2020
+
+
+Version 1.5
+Total: 520 (IPs: 18, Hashes: 283, URLs: 219).
 
 Version 1.4
 Confidence file uploaded. All hash IoCs are verified.
