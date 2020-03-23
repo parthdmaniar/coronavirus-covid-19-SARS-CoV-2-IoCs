@@ -17,6 +17,9 @@ Wishing everyone good health.
 
 Last updated: 1635 hrs IST on 23-03-2020
 
+Version: 1.01
+Spell check and combined all IOCs under "All IOC" file.
+
 Version: 1
 Initial commit has 391 IOCs - 282 hashes, 93 URLs, and 16 IPs.
 
