@@ -17,6 +17,9 @@ Wishing everyone good health.
 
 Last updated: 1635 hrs IST on 23-03-2020
 
+Version: 1.1
+Added: 39 URLs (Most of these are defanged.)
+
 Version: 1.01
 Spell check and combined all IOCs under "All IOC" file.
 
