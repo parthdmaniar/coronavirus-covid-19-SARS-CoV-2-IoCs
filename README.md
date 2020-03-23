@@ -1,4 +1,4 @@
-# Dedicated to the men and woman figthing coronavirus pandemic.
+# Dedicated to the men and woman figthing the coronavirus pandemic.
 
 coronavirus-covid-19-SARS-CoV-2
 
