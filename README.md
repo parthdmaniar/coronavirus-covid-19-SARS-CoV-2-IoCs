@@ -8,7 +8,7 @@ Remember, architecture is the base and everything else is an additional layer. S
 
 APT36 has been known to use this pandemic to target. These have been include in the list.
 
-DO NOT CLICK  ON ANY URLs or VISIT IP Addresses, their current state is unknown and I have NOT masked the URLs.
+DO NOT CLICK  ON ANY URLs or VISIT IP Addresses, their current state is unknown and I have NOT masked (defaneg) all the URLs.
 
 ** WHO has a WhatApp group for up-to-date information: http://bit.ly/who-covid19-whatsapp. Send a "hi" message to get started. **
 
