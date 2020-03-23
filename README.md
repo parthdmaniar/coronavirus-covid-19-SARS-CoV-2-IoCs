@@ -15,7 +15,10 @@ DO NOT CLICK  ON ANY URLs or VISIT IP Addresses, their current state is unknown 
 Wishing everyone good health.
 
 
-Last updated: 1635 hrs IST on 23-03-2020
+Last updated: 2025 hrs IST on 23-03-2020
+
+Version: 1.2
+Added: 1 file hash. Total now stands at: 431.
 
 Version: 1.1
 Added: 39 URLs (Most of these are defanged.) Total now stands at: 430.
