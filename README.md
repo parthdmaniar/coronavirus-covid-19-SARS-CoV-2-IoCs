@@ -1,4 +1,4 @@
-# Dedicated to the men and woman fighting the coronavirus pandemic.
+# Dedicated to the men and women fighting the coronavirus pandemic.
 
 coronavirus-covid-19-SARS-CoV-2
 
@@ -25,5 +25,3 @@ Spell check and combined all IOCs under "All IOC" file.
 
 Version: 1
 Initial commit has 391 IOCs - 282 hashes, 93 URLs, and 16 IPs.
-
-
