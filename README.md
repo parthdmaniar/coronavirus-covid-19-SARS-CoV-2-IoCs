@@ -14,7 +14,10 @@ DO NOT CLICK  ON ANY URLs or VISIT IP Addresses, their current state is unknown 
 
 Wishing everyone good health.
 
-Last updated: 1200 hrs IST on 24-03-2020
+Last updated: 2026 hrs IST on 24-03-2020
+
+Version 1.7:
+Total: 552 (IPs:18, Hashes:303, URLs:229, CVEs: 3). This update contains - #Part of APT36 and not directly connected to purpose of this IOC list.
 
 Version 1.6
 Total: 549 (IPs:18, Hashes:302, URLs:226, CVEs: 3).
