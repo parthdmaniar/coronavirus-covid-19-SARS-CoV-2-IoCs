@@ -17,7 +17,7 @@ Wishing everyone good health.
 Last updated: 0116 hrs IST on 24-03-2020
 
 Version 1.6
-Total: 539 (IPs:18, Hashes:293, URLs:225, CVEs: 3).
+Total: 549 (IPs:18, Hashes:302, URLs:226, CVEs: 3).
 
 Version 1.5
 Total: 520 (IPs: 18, Hashes: 283, URLs: 219).
