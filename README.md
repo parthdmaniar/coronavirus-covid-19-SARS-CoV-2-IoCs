@@ -17,7 +17,7 @@ Wishing everyone good health.
 Last updated: 2026 hrs IST on 24-03-2020
 
 Version 1.9
-Total: Total: 599 (IPs:18, Hashes:333, URLs:245, CVEs: 3).
+Total: Total: 599 (IPs:18, Hashes:333, URLs:245, CVEs: 3). Total newly registered domains now stands at 11660 having keyword - covid / corona. Date of registration is post 20th March 2020.
 
 Version: 1.8
 Total: Total: 557 (IPs:18, Hashes:304, URLs:234, CVEs: 3). This update has a new list - newly registered domanins.There are total of 9595 newly registered domains between 20th March to 24th March 2020.
