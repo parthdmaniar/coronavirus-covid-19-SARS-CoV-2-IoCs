@@ -14,10 +14,11 @@ DO NOT CLICK  ON ANY URLs or VISIT IP Addresses, their current state is unknown 
 
 Wishing everyone good health.
 
-Last updated: 2026 hrs IST on 24-03-2020
+Last updated: 1212 hrs IST on 26-03-2020
 
 Version 2.1
 THERE ARE SOME CORRECTIONS IN THE URL FILE. PLEASE UPDATE.
+
 Total: Total: 711 (IPs:19, Hashes:354, URLs:~ 355, CVEs: 3). Total newly registered domains now stands at 13,752 having keyword - covid / corona. Date of registration is post 20th March 2020.
 
 Version 2.0
