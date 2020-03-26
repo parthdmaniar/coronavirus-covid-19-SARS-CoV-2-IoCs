@@ -17,6 +17,14 @@ Wishing everyone good health.
 Last updated: 1212 hrs IST on 26-03-2020
 
 Version 2.2
+Total: Total: 712 (IPs:19, Hashes:354, URLs:~ 356, CVEs: 3).
+
+hmrc-cov19.payment.estrodev.com -- Found to be actively used as part of text message (SMS) based phishing.
+
+Total newly registered domains now stands at 34,891 having keyword - covid / corona. Date of registration is post 20th March 2020.
+
+
+Version 2.2
 Total: Total: 711 (IPs:19, Hashes:354, URLs:~ 355, CVEs: 3).
 
 Total newly registered domains now stands at 34,891 having keyword - covid / corona. Date of registration is post 20th March 2020.
