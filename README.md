@@ -16,6 +16,15 @@ Wishing everyone good health.
 
 Last updated: 2111 hrs IST on 26-03-2020
 
+Version 2.3
+Total: Total: 81,766 (IPs:20, Hashes:378, URLs:~ 380, CVEs: 3).
+
+New: Domain tools list is incorporated: https://www.domaintools.com/resources/blog/free-covid-19-threat-list-domain-risk-assessments-for-coronavirus-threats#download
+
+hmrc-cov19.payment.estrodev.com -- Found to be actively used as part of text message (SMS) based phishing.
+
+Total newly registered domains now stands at 36,994 having keyword - covid / corona. Date of registration is post 1st February 2020.
+
 Version 2.2
 Total: Total: 712 (IPs:19, Hashes:354, URLs:~ 356, CVEs: 3).
 
