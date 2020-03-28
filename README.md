@@ -14,7 +14,19 @@ DO NOT CLICK  ON ANY URLs or VISIT IP Addresses, their current state is unknown 
 
 Wishing everyone good health.
 
-Last updated: 1020 hrs IST on 28-03-2020
+Last updated: 1233 hrs IST on 28-03-2020
+
+
+
+### Version 2.6
+Total: Total: 781 (IPs:20, Hashes:378, URLs:~ 380, CVEs: 3).
+
+### As of this update all URLs listed are being validated for authenticity.
+
+### Removed domaintools URLs from official IoC list. 
+
+#### List by Domaintools seems to have *legitimate* websites too. PLEASE USE IT WITH ADDITIONAL CAUTION. URLs listed under "URL" are validated as part of being used in malicious covid-19 / coronavirus campaign.
+##### New: Domain tools list is incorporated: https://www.domaintools.com/resources/blog/free-covid-19-threat-list-domain-risk-assessments-for-coronavirus-threats#download
 
 ### Version 2.4
 Total: Total: 81,766 (IPs:20, Hashes:378, URLs:~ 380, CVEs: 3).
