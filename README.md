@@ -16,7 +16,10 @@ Wishing everyone good health.
 
 Last updated: 1233 hrs IST on 28-03-2020
 
+### Version 2.7
+Total: Total: 856 (IPs:26, Hashes:437, URLs:~ 390, CVEs: 3).
 
+#### As of this update all URLs as aprt of "newly_registered_domains" have been submitted for VirusTotal. I want to thank Krutika Potdar (who provded 3 keys), Ankit Bose (who submitted 10,000 domains), Arun Kumar, & members of the greatest team ever: Jayendra Kadam, Sanket Yeram, Rohit Chaurasia.
 
 ### Version 2.6
 Total: Total: 781 (IPs:20, Hashes:378, URLs:~ 380, CVEs: 3).
