@@ -14,7 +14,7 @@ DO NOT CLICK  ON ANY URLs or VISIT IP Addresses, their current state is unknown 
 
 Wishing everyone good health.
 
-Last updated: 1233 hrs IST on 28-03-2020
+Last updated: 1800 hrs IST on 31-03-2020
 
 ### Version 2.7
 Total: Total: 856 (IPs:26, Hashes:437, URLs:~ 390, CVEs: 3).
