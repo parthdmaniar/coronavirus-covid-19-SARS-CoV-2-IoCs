@@ -14,18 +14,24 @@ DO NOT CLICK  ON ANY URLs or VISIT IP Addresses, their current state is unknown 
 
 Wishing everyone good health.
 
-Last updated: 1120 hrs IST on 01-04-2020
+Last updated: 0005 hrs IST on 02-04-2020
+
+### Version 3.0
+#### A major update as I have now incorporated list by Anomali --> https://www.anomali.com/learn/covid19. Thank you very much to Anomali.
+
+Total IoCs: 4073 (IPs:961, Hashes:1594, URLs:~ 1514, CVEs: 4)
+
 
 ### Version 2.8
-Total: Total: 949 (IPs:26, Hashes:514, URLs:~ 405, CVEs: 4).
+Total IoCs: 949 (IPs:26, Hashes:514, URLs:~ 2530, CVEs: 4).
 
 ### Version 2.7
-Total: Total: 856 (IPs:26, Hashes:437, URLs:~ 390, CVEs: 3).
+Total IoCs: 856 (IPs:26, Hashes:437, URLs:~ 390, CVEs: 3).
 
 ### As of this update all URLs as aprt of "newly_registered_domains" have been submitted for VirusTotal. I want to thank Krutika Potdar (who provded 3 keys of VT & othre logistical support keeping the team in sync), Ankit Bose (who submitted 10,000 domains), Arun Kumar, & members of the greatest team ever: Jayendra Kadam, Sanket Yeram, Rohit Chaurasia.
 
 ### Version 2.6
-Total: Total: 781 (IPs:20, Hashes:378, URLs:~ 380, CVEs: 3).
+Total IoCs: 781 (IPs:20, Hashes:378, URLs:~ 380, CVEs: 3).
 
 ### As of this update all URLs listed are being validated for authenticity.
 
@@ -35,7 +41,7 @@ Total: Total: 781 (IPs:20, Hashes:378, URLs:~ 380, CVEs: 3).
 ##### New: Domain tools list is incorporated: https://www.domaintools.com/resources/blog/free-covid-19-threat-list-domain-risk-assessments-for-coronavirus-threats#download
 
 ### Version 2.4
-Total: Total: 81,766 (IPs:20, Hashes:378, URLs:~ 380, CVEs: 3).
+Total IoCs: 81,766 (IPs:20, Hashes:378, URLs:~ 380, CVEs: 3).
 
 #### List by Domaintools seems to have legitimate websites too. PLEASE USE IT WITH ADDITIONAL CAUTION. URLs listed under "URL" are validated as part of being used in malicious covid-19 / coronavirus campaign.
 ##### New: Domain tools list is incorporated: https://www.domaintools.com/resources/blog/free-covid-19-threat-list-domain-risk-assessments-for-coronavirus-threats#download
@@ -45,7 +51,7 @@ hmrc-cov19.payment.estrodev.com -- Found to be actively used as part of text mes
 Total newly registered domains now stands at 36,994 having keyword - covid / corona. Date of registration is post 1st February 2020.
 
 ### Version 2.3
-Total: Total: 81,766 (IPs:20, Hashes:378, URLs:~ 380, CVEs: 3).
+Total IoCs: 81,766 (IPs:20, Hashes:378, URLs:~ 380, CVEs: 3).
 
 New: Domain tools list is incorporated: https://www.domaintools.com/resources/blog/free-covid-19-threat-list-domain-risk-assessments-for-coronavirus-threats#download
 
@@ -54,7 +60,7 @@ hmrc-cov19.payment.estrodev.com -- Found to be actively used as part of text mes
 Total newly registered domains now stands at 36,994 having keyword - covid / corona. Date of registration is post 1st February 2020.
 
 ### Version 2.2
-Total: Total: 712 (IPs:19, Hashes:354, URLs:~ 356, CVEs: 3).
+Total IoCs: 712 (IPs:19, Hashes:354, URLs:~ 356, CVEs: 3).
 
 hmrc-cov19.payment.estrodev.com -- Found to be actively used as part of text message (SMS) based phishing.
 
@@ -62,32 +68,32 @@ Total newly registered domains now stands at 34,891 having keyword - covid / cor
 
 
 ### Version 2.2
-Total: Total: 711 (IPs:19, Hashes:354, URLs:~ 355, CVEs: 3).
+Total IoCs: 711 (IPs:19, Hashes:354, URLs:~ 355, CVEs: 3).
 
 Total newly registered domains now stands at 34,891 having keyword - covid / corona. Date of registration is post 20th March 2020.
 
 ### Version 2.1
 THERE ARE SOME CORRECTIONS IN THE URL FILE. PLEASE UPDATE.
 
-Total: Total: 711 (IPs:19, Hashes:354, URLs:~ 355, CVEs: 3). Total newly registered domains now stands at 13,752 having keyword - covid / corona. Date of registration is post 20th March 2020.
+Total IoCs: 711 (IPs:19, Hashes:354, URLs:~ 355, CVEs: 3). Total newly registered domains now stands at 13,752 having keyword - covid / corona. Date of registration is post 20th March 2020.
 
 ### Version 2.0
-Total: Total: 711 (IPs:19, Hashes:334, URLs:~ 355, CVEs: 3). Total newly registered domains now stands at 11,660 having keyword - covid / corona. Date of registration is post 20th March 2020.
+Total IoCs: 711 (IPs:19, Hashes:334, URLs:~ 355, CVEs: 3). Total newly registered domains now stands at 11,660 having keyword - covid / corona. Date of registration is post 20th March 2020.
 
 ### Version 1.9
-Total: Total: 599 (IPs:18, Hashes:333, URLs:245, CVEs: 3). Total newly registered domains now stands at 11,660 having keyword - covid / corona. Date of registration is post 20th March 2020.
+Total IoCs: 599 (IPs:18, Hashes:333, URLs:245, CVEs: 3). Total newly registered domains now stands at 11,660 having keyword - covid / corona. Date of registration is post 20th March 2020.
 
 ### Version: 1.8
-Total: Total: 557 (IPs:18, Hashes:304, URLs:234, CVEs: 3). This update has a new list - newly registered domanins.There are total of 9595 newly registered domains between 20th March to 24th March 2020.
+Total IoCs: 557 (IPs:18, Hashes:304, URLs:234, CVEs: 3). This update has a new list - newly registered domanins.There are total of 9595 newly registered domains between 20th March to 24th March 2020.
 
 ### Version: 1.7
-Total: 552 (IPs:18, Hashes:304, URLs:229, CVEs: 3). This update contains - #Part of APT36 and not directly connected to purpose of this IOC list.
+Total IoCs: 552 (IPs:18, Hashes:304, URLs:229, CVEs: 3). This update contains - #Part of APT36 and not directly connected to purpose of this IOC list.
 
 ### Version 1.6
-Total: 549 (IPs:18, Hashes:302, URLs:226, CVEs: 3).
+Total IoCs: 549 (IPs:18, Hashes:302, URLs:226, CVEs: 3).
 
 ### Version 1.5
-Total: 520 (IPs: 18, Hashes: 283, URLs: 219).
+Total IoCs: 520 (IPs: 18, Hashes: 283, URLs: 219).
 
 ### Version 1.4
 Confidence file uploaded. All hash IoCs are verified.
@@ -99,7 +105,7 @@ Adding: Confidence score for attached IoCs. (Starting with hash).
 Added: 1 file hash. Total now stands at: 431.
 
 ### Version: 1.1
-Added: 39 URLs (Most of these are defanged.) Total now stands at: 430.
+Total IoCs: 39 URLs (Most of these are defanged.) Total now stands at: 430.
 
 ### Version: 1.01
 Spell check and combined all IoCs under "All IOC" file.
