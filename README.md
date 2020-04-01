@@ -14,12 +14,15 @@ DO NOT CLICK  ON ANY URLs or VISIT IP Addresses, their current state is unknown 
 
 Wishing everyone good health.
 
-Last updated: 1800 hrs IST on 31-03-2020
+Last updated: 1120 hrs IST on 01-04-2020
+
+### Version 2.8
+Total: Total: 949 (IPs:26, Hashes:514, URLs:~ 405, CVEs: 4).
 
 ### Version 2.7
 Total: Total: 856 (IPs:26, Hashes:437, URLs:~ 390, CVEs: 3).
 
-#### As of this update all URLs as aprt of "newly_registered_domains" have been submitted for VirusTotal. I want to thank Krutika Potdar (who provded 3 keys), Ankit Bose (who submitted 10,000 domains), Arun Kumar, & members of the greatest team ever: Jayendra Kadam, Sanket Yeram, Rohit Chaurasia.
+### As of this update all URLs as aprt of "newly_registered_domains" have been submitted for VirusTotal. I want to thank Krutika Potdar (who provded 3 keys of VT & othre logistical support keeping the team in sync), Ankit Bose (who submitted 10,000 domains), Arun Kumar, & members of the greatest team ever: Jayendra Kadam, Sanket Yeram, Rohit Chaurasia.
 
 ### Version 2.6
 Total: Total: 781 (IPs:20, Hashes:378, URLs:~ 380, CVEs: 3).
