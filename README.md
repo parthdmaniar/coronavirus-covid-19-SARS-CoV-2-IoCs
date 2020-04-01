@@ -1,4 +1,4 @@
-# Dedicated to the men and women fighting the coronavirus pandemic.
+## Dedicated to the men and women fighting the coronavirus pandemic.
 
 coronavirus-covid-19-SARS-CoV-2
 
@@ -10,7 +10,7 @@ APT36 has been known to use this pandemic to target. These have been include in 
 
 DO NOT CLICK  ON ANY URLs or VISIT IP Addresses, their current state is unknown and I have NOT masked (defaneg) all the URLs.
 
-### ** WHO has a WhatApp group for up-to-date information: http://bit.ly/who-covid19-whatsapp. Send a "hi" message to get started. **
+###  WHO has a WhatApp group for up-to-date information: http://bit.ly/who-covid19-whatsapp. Send a "hi" message to get started. 
 
 Wishing everyone good health.
 
@@ -27,21 +27,20 @@ Total IoCs: 3592 (IPs: 439, Hashes: 1553, URLs:~ 1596, CVEs: 4)
 
 Total IoCs: 4073 (IPs:961, Hashes:1594, URLs:~ 1514, CVEs: 4)
 
-
 ### Version 2.8
 Total IoCs: 949 (IPs:26, Hashes:514, URLs:~ 2530, CVEs: 4).
 
 ### Version 2.7
 Total IoCs: 856 (IPs:26, Hashes:437, URLs:~ 390, CVEs: 3).
 
-### As of this update all URLs as aprt of "newly_registered_domains" have been submitted for VirusTotal. I want to thank Krutika Potdar (who provded 3 keys of VT & othre logistical support keeping the team in sync), Ankit Bose (who submitted 10,000 domains), Arun Kumar, & members of the greatest team ever: Jayendra Kadam, Sanket Yeram, Rohit Chaurasia.
+#### As of this update all URLs as aprt of "newly_registered_domains" have been submitted for VirusTotal. I want to thank Krutika Potdar (who provded 3 keys of VT & othre logistical support keeping the team in sync), Ankit Bose (who submitted 10,000 domains), Arun Kumar, & members of the greatest team ever: Jayendra Kadam, Sanket Yeram, Rohit Chaurasia.
 
 ### Version 2.6
 Total IoCs: 781 (IPs:20, Hashes:378, URLs:~ 380, CVEs: 3).
 
-### As of this update all URLs listed are being validated for authenticity.
+#### As of this update all URLs listed are being validated for authenticity.
 
-### Removed domaintools URLs from official IoC list. 
+#### Removed domaintools URLs from official IoC list. 
 
 #### List by Domaintools seems to have *legitimate* websites too. PLEASE USE IT WITH ADDITIONAL CAUTION. URLs listed under "URL" are validated as part of being used in malicious covid-19 / coronavirus campaign.
 ##### New: Domain tools list is incorporated: https://www.domaintools.com/resources/blog/free-covid-19-threat-list-domain-risk-assessments-for-coronavirus-threats#download
