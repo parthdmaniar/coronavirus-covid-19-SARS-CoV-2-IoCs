@@ -16,6 +16,12 @@ Wishing everyone good health.
 
 Last updated: 0005 hrs IST on 02-04-2020
 
+### Version 3.1 
+
+Merge and duplicate removal
+
+Total IoCs: 3592 (IPs: 439, Hashes: 1553, URLs:~ 1596, CVEs: 4)
+
 ### Version 3.0
 #### A major update as I have now incorporated list by Anomali --> https://www.anomali.com/learn/covid19. Thank you very much to Anomali.
 
