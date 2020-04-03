@@ -16,6 +16,14 @@ Wishing everyone good health.
 
 Last updated: 0024 hrs IST on 02-04-2020
 
+
+### Version 3.2
+
+Merge and duplicate removal
+
+Total IoCs: 3731 (IPs: 449, Hashes: 1660, URLs:~ 1618, CVEs: 4)
+
+
 ### Version 3.1 
 
 Merge and duplicate removal
