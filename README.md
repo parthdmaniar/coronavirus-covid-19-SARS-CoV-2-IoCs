@@ -16,6 +16,12 @@ Wishing everyone good health.
 
 Last updated: 0024 hrs IST on 02-04-2020
 
+### Version 3.2
+
+Total IoCs: 3731 (IPs: 450, Hashes: 1660, URLs:~ 1624, CVEs: 4)
+
+#### In this udpdate newly registered domains have been updated until 03-05-2020. Newly registered domains have been pushed to VirusTotal.
+
 
 ### Version 3.2
 
