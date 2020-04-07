@@ -14,11 +14,16 @@ DO NOT CLICK  ON ANY URLs or VISIT IP Addresses, their current state is unknown 
 
 Wishing everyone good health.
 
-Last updated: 0024 hrs IST on 02-04-2020
+Last updated: 1915 hrs IST on 07-04-2020
 
-### Version 3.2
+### Version 3.4
 
-Total IoCs: 3731 (IPs: 450, Hashes: 1660, URLs:~ 1624, CVEs: 4)
+Total IoCs: 3757 (IPs: 452, Hashes: 1673, URLs:~ 1628, CVEs: 4)
+
+
+### Version 3.3
+
+Total IoCs: 3738 (IPs: 450, Hashes: 1660, URLs:~ 1624, CVEs: 4)
 
 #### In this udpdate newly registered domains have been updated until 03-05-2020. Newly registered domains have been pushed to VirusTotal.
 
