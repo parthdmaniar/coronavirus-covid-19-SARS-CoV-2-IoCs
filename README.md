@@ -19,7 +19,7 @@ Last updated: 0201 hrs IST on 09-04-2020
 ### Version 3.5
 #### Closed issue wherein legitimate websites (coronavirusdatamap.com and californiacoronavirus.org) were included in domaintools_malicious_domain_list.
 
-### Please be advised that curated lists are : IP, Hashes, URLs and ALL IOCs. These are personally verified by me. All other lists are should be tested before production use.  
+#### Please be advised that curated lists are : IP, Hashes, URLs and ALL IOCs. These are personally verified by me. All other lists should be tested before production use.
 Total IoCs: 3762 (IPs: 454, Hashes: 1675, URLs:~ 1629, CVEs: 4)
 
 ### Version 3.4
