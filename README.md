@@ -18,7 +18,7 @@ Last updated: 1233 hrs IST on 09-04-2020
 
 
 ### Version 4.1
-### bumping directly from 3.5 to 4.1 due to additional incusions and coverage. 
+#### bumping directly from 3.5 to 4.1 due to additional inclusions and coverage. 
 #### This update includes lists from US-CERT TLP:White shared here: https://www.us-cert.gov/ncas/alerts/aa20-099a && https://github.com/sophoslabs/covid-iocs
 Total IoCs: 6586 (IPs: 454, Hashes: 1807, URLs:~ 4321, CVEs: 4)
 
