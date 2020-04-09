@@ -17,11 +17,15 @@ Wishing everyone good health.
 Last updated: 1233 hrs IST on 09-04-2020
 
 
+### Version 4.2
+Total IoCs: 7073 (IPs: 472, Hashes: 1722, URLs:~ 4875, CVEs: 4)
+Refer https://github.com/parthdmaniar/coronavirus-covid-19-SARS-CoV-2-IoCs/tree/master/Printscreens for photos(printscreens) of the scam.
+
+
 ### Version 4.1
 #### bumping directly from 3.5 to 4.1 due to additional inclusions and coverage. 
 #### This update includes lists from US-CERT TLP:White shared here: https://www.us-cert.gov/ncas/alerts/aa20-099a && https://github.com/sophoslabs/covid-iocs
 Total IoCs: 6586 (IPs: 454, Hashes: 1807, URLs:~ 4321, CVEs: 4)
-
 Refer https://github.com/parthdmaniar/coronavirus-covid-19-SARS-CoV-2-IoCs/tree/master/Printscreens for photos(printscreens) of the scam.
 
 
