@@ -16,26 +16,13 @@ Wishing everyone good health.
 
 Last updated: 1233 hrs IST on 09-04-2020
 
-1. ![image](https://github.com/parthdmaniar/coronavirus-covid-19-SARS-CoV-2-IoCs/blob/master/Printscreens/0.jfif)
-2. ![image](https://github.com/parthdmaniar/coronavirus-covid-19-SARS-CoV-2-IoCs/blob/master/Printscreens/1.jfif)
-3. ![image](https://github.com/parthdmaniar/coronavirus-covid-19-SARS-CoV-2-IoCs/blob/master/Printscreens/Covid_19_Corona_Virus_Scam_Picture_1.jpg)
-4. ![image](https://github.com/parthdmaniar/coronavirus-covid-19-SARS-CoV-2-IoCs/blob/master/Printscreens/Covid_19_Corona_Virus_Scam_Picture_2.jpg)
-5. ![image](https://github.com/parthdmaniar/coronavirus-covid-19-SARS-CoV-2-IoCs/blob/master/Printscreens/Covid_19_Corona_Virus_Scam_Picture_3.jpg)
-6. ![image](https://github.com/parthdmaniar/coronavirus-covid-19-SARS-CoV-2-IoCs/blob/master/Printscreens/Covid_19_Corona_Virus_Scam_Picture_4.jpg)
-7. ![image](https://github.com/parthdmaniar/coronavirus-covid-19-SARS-CoV-2-IoCs/blob/master/Printscreens/Covid_19_Corona_Virus_Scam_Picture_5.jpg)
-8. ![image](https://github.com/parthdmaniar/coronavirus-covid-19-SARS-CoV-2-IoCs/blob/master/Printscreens/Covid_19_Corona_Virus_Scam_Picture_6.jpg)
-9. ![image](https://github.com/parthdmaniar/coronavirus-covid-19-SARS-CoV-2-IoCs/blob/master/Printscreens/Covid_19_Corona_Virus_Scam_Picture_7.jpg)
-10. ![image](https://github.com/parthdmaniar/coronavirus-covid-19-SARS-CoV-2-IoCs/blob/master/Printscreens/Covid_19_Corona_Virus_Scam_Picture_8.jpg)
-11. ![image](https://github.com/parthdmaniar/coronavirus-covid-19-SARS-CoV-2-IoCs/blob/master/Printscreens/Covid_19_Corona_Virus_Scam_Picture_9.jpg)
-12. ![image](https://github.com/parthdmaniar/coronavirus-covid-19-SARS-CoV-2-IoCs/blob/master/Printscreens/Covid_19_Corona_Virus_Scam_Picture_10.jpg)
-
-
-
 
 ### Version 4.1
 ### bumping directly from 3.5 to 4.1 due to additional incusions and coverage. 
 #### This update includes lists from US-CERT TLP:White shared here: https://www.us-cert.gov/ncas/alerts/aa20-099a && https://github.com/sophoslabs/covid-iocs
 Total IoCs: 6586 (IPs: 454, Hashes: 1807, URLs:~ 4321, CVEs: 4)
+
+Refer https://github.com/parthdmaniar/coronavirus-covid-19-SARS-CoV-2-IoCs/tree/master/Printscreens for photos(printscreens) of the scam.
 
 
 ### Version 3.5
