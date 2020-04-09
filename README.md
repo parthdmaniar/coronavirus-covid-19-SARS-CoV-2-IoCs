@@ -14,13 +14,22 @@ DO NOT CLICK  ON ANY URLs or VISIT IP Addresses, their current state is unknown 
 
 Wishing everyone good health.
 
-Last updated: 0201 hrs IST on 09-04-2020
+Last updated: 1233 hrs IST on 09-04-2020
+
+
+
+### Version 4.1
+### bumping directly from 3.5 to 4.1 due to additional incusions and coverage. 
+#### This update includes lists from US-CERT TLP:White shared here: https://www.us-cert.gov/ncas/alerts/aa20-099a && https://github.com/sophoslabs/covid-iocs
+Total IoCs: 6586 (IPs: 454, Hashes: 1807, URLs:~ 4321, CVEs: 4)
+
 
 ### Version 3.5
 #### Closed issue wherein legitimate websites (coronavirusdatamap.com and californiacoronavirus.org) were included in domaintools_malicious_domain_list.
 
 #### Please be advised that curated lists are : IP, Hashes, URLs and ALL IOCs. These are personally verified by me. All other lists should be tested before production use.
 Total IoCs: 3762 (IPs: 454, Hashes: 1675, URLs:~ 1629, CVEs: 4)
+
 
 ### Version 3.4
 Total IoCs: 3757 (IPs: 452, Hashes: 1673, URLs:~ 1628, CVEs: 4)
