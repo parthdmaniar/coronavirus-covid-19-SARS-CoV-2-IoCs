@@ -17,6 +17,10 @@ Wishing everyone good health.
 Last updated: 1359 hrs IST on 10-04-2020
 
 
+### Version 4.5
+Total IoCs: 7379 (IPs: 511, Hashes: 1950, URLs:~ 4914, CVEs: 4)
+
+
 ### Version 4.3
 Total IoCs: 7199 (IPs: 511, Hashes: 1778, URLs:~ 4906, CVEs: 4)
 Refer https://github.com/parthdmaniar/coronavirus-covid-19-SARS-CoV-2-IoCs/tree/master/Printscreens for photos(printscreens) of the scam.
