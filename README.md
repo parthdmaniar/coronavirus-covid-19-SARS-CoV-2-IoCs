@@ -14,7 +14,12 @@ DO NOT CLICK  ON ANY URLs or VISIT IP Addresses, their current state is unknown 
 
 Wishing everyone good health.
 
-Last updated: 1233 hrs IST on 09-04-2020
+Last updated: 1359 hrs IST on 10-04-2020
+
+
+### Version 4.3
+Total IoCs: 7199 (IPs: 511, Hashes: 1778, URLs:~ 4906, CVEs: 4)
+Refer https://github.com/parthdmaniar/coronavirus-covid-19-SARS-CoV-2-IoCs/tree/master/Printscreens for photos(printscreens) of the scam.
 
 
 ### Version 4.2
@@ -34,7 +39,7 @@ Refer https://github.com/parthdmaniar/coronavirus-covid-19-SARS-CoV-2-IoCs/tree/
 
 #### Please be advised that curated lists are : IP, Hashes, URLs and ALL IOCs. These are personally verified by me. All other lists should be tested before production use.
 Total IoCs: 3762 (IPs: 454, Hashes: 1675, URLs:~ 1629, CVEs: 4)
-
+ 
 
 ### Version 3.4
 Total IoCs: 3757 (IPs: 452, Hashes: 1673, URLs:~ 1628, CVEs: 4)
