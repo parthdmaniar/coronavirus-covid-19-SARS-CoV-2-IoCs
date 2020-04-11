@@ -16,6 +16,10 @@ Wishing everyone good health.
 
 Last updated: 2242 hrs IST on 10-04-2020
 
+### Version 4.5.1
+### Emergency update to remove domain: covid19map.us which was ingested from CERT-US notficaion. Now removed from all IoC files.
+Total IoCs: 7382 (IPs: 512, Hashes: 1950, URLs:~ 4915, CVEs: 5)
+
 
 ### Version 4.5
 Total IoCs: 7383 (IPs: 512, Hashes: 1950, URLs:~ 4916, CVEs: 5)
