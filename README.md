@@ -14,7 +14,14 @@ DO NOT CLICK  ON ANY URLs or VISIT IP Addresses, their current state is unknown 
 
 Wishing everyone good health.
 
-Last updated: 2242 hrs IST on 10-04-2020
+Last updated: 1731 hrs IST on 13-04-2020
+
+### Version 5
+#### Bumping to version 5 as we have massive ingestion from blocklist.cyberthreatcoalition.org/vetted/ && kind assistance of GitHub user - @ideaengine007 with twitter handle Nitesh (@ideaengine007 && https://twitter.com/ideaengine007).
+
+#### hashes as part of this update are still being vetted at VirusTotal. A random audit has confirmed 100% (available) hashesh related to Covid-19 scams. Thank you.
+Total IoCs: 12,419 (IPs: 510, Hashes: 3231, URLs:~ 8673, CVEs: 5)
+
 
 ### Version 4.5.1
 #### Emergency update to remove domain: covid19map.us which was ingested from CERT-US notficaion. Now removed from all IoC files.
