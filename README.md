@@ -14,7 +14,14 @@ DO NOT CLICK  ON ANY URLs or VISIT IP Addresses, their current state is unknown 
 
 Wishing everyone good health.
 
-Last updated: 1731 hrs IST on 13-04-2020
+Last updated: 0131 hrs IST on 14-04-2020
+
+
+### Version 5.1
+#### Important cleanup for hashes. New Confidence script is initiated. ETA for completion 1700 IST on 14-04-2020.
+
+Total IoCs: 12,375 (IPs: 510, Hashes: 3187, URLs:~ 8673, CVEs: 5)
+
 
 ### Version 5
 #### Bumping to version 5 as we have massive ingestion from blocklist.cyberthreatcoalition.org/vetted/ && kind assistance of GitHub user - @ideaengine007 with twitter handle Nitesh (@ideaengine007 && https://twitter.com/ideaengine007).
