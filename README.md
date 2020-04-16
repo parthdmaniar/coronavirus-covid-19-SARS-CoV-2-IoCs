@@ -16,6 +16,11 @@ Wishing everyone good health.
 
 Last updated: 2315 hrs IST on 14-04-2020
 
+### Version 5.3
+
+Total IoCs: 12,966 (IPs: 513, Hashes: 3191, URLs:~ 9257, CVEs: 5)
+
+
 ### Version 5.2.1
 #### Emergency update to remove domain: coronavirus3d.org which was ingested from CERT-US notficaion. Now removed from all IoC files.
 #### Confidence script is still ongoing. 
