@@ -14,11 +14,11 @@ DO NOT CLICK  ON ANY URLs or VISIT IP Addresses, their current state is unknown 
 
 Wishing everyone good health.
 
-Last updated: 2149 hrs IST on 22-04-2020
+Last updated: 0000 hrs IST on 24-04-2020
 
 ### Version 6.0
 
-Total IoCs: 20,763 (IPs: 550, Hashes: 3452, URLs:~ 16756, CVEs: 5)
+Total IoCs: 20,763 (IPs: 550, Hashes: 3452, URLs:~ 16,756, CVEs: 5)
 Bumping to 6.0 due to large addition of URLs.
 
 
