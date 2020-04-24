@@ -200,6 +200,10 @@ Total newly registered domains now stands at 34,891 having keyword - covid / cor
 THERE ARE SOME CORRECTIONS IN THE URL FILE. PLEASE UPDATE.
 Total IoCs: 711 (IPs:19, Hashes:354, URLs:~ 355, CVEs: 3). Total newly registered domains now stands at 13,752 having keyword - covid / corona. Date of registration is post 20th March 2020.
 
+### Newly registered domains names supplied at discounted cost by 
+### Name: Janmajaya Panigrahy
+### Company Name: Genesics Enterprises LL
+
 
 ### Version 2.0
 Total IoCs: 711 (IPs:19, Hashes:334, URLs:~ 355, CVEs: 3). Total newly registered domains now stands at 11,660 having keyword - covid / corona. Date of registration is post 20th March 2020.
