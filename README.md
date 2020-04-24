@@ -16,6 +16,12 @@ Wishing everyone good health.
 
 Last updated: 0000 hrs IST on 24-04-2020
 
+### Version 6.5
+
+Total IoCs: 23,567 (IPs: 561, Hashes: 3530, URLs:~ 19,471 CVEs: 5)
+Bumping to 6.5 due to large addition of URLs.
+
+
 ### Version 6.1
 Emergency update to remove covid-19-sounds.org
 
