@@ -14,7 +14,7 @@ DO NOT CLICK  ON ANY URLs or VISIT IP Addresses, their current state is unknown 
 
 Wishing everyone good health.
 
-Last updated: 0000 hrs IST on 24-04-2020
+Last updated: 2200 hrs IST on 24-04-2020
 
 ### Version 6.5
 
