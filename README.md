@@ -17,11 +17,19 @@ Wishing everyone good health.
 Last updated: 1330 hrs IST on 29-04-2020
 
 
+### Version 7.0
+
+Total IoCs: 35,243 (IPs: 564, Hashes: 3561, URLs:~ 31,113 CVEs: 5)
+
+#### Bumping this to 7.0 as total of ~11,000 new IoC's added.
+
+
 ### Version 6.8
 
 Total IoCs: 24,302 (IPs: 564, Hashes: 3560, URLs:~ 20,173 CVEs: 5)
 
 #### There is a request to evaluate 23.227.38.65 and 23.227.38.32 and finetune them to URLs. I will be working on this. This request came via email. I will open an issue today for tracking.
+
 
 ### Version 6.7
 
