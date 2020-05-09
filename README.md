@@ -14,64 +14,54 @@ DO NOT CLICK  ON ANY URLs or VISIT IP Addresses, their current state is unknown 
 
 Wishing everyone good health.
 
-Last updated: 1153  hrs IST on 09-05-2020
+### Last updated: 2200  hrs IST on 09-05-2020
 
 
 ### Version 7.6
-
 Total IoCs: 41,270 (IPs: 568, Hashes: 3,584, URLs:~ 37,113 CVEs: 5)
 
-### Version 7.5
 
+### Version 7.5
 Total IoCs: 40,804 (IPs: 568, Hashes: 3,584, URLs:~ 36,647 CVEs: 5)
 
 
 ### Version 7.4
-
 Total IoCs: 40,098 (IPs: 564, Hashes: 3561, URLs:~ 35,968 CVEs: 5)
 
 
 ### Version 7.3
-
 Total IoCs: 39,811 (IPs: 564, Hashes: 3561, URLs:~ 35,681 CVEs: 5)
 
 
 ### Version 7.2
-
 Total IoCs: 38,908 (IPs: 564, Hashes: 3561, URLs:~ 34,778 CVEs: 5)
 
 
 ### Version 7.1
-
 Total IoCs: 38,075 (IPs: 564, Hashes: 3561, URLs:~ 33,945 CVEs: 5)
 
 
 ### Version 7.0
-
 Total IoCs: 35,243 (IPs: 564, Hashes: 3561, URLs:~ 31,113 CVEs: 5)
 
 #### Bumping this to 7.0 as total of ~11,000 new IoC's added.
 
 
 ### Version 6.8
-
 Total IoCs: 24,302 (IPs: 564, Hashes: 3560, URLs:~ 20,173 CVEs: 5)
 
 #### There is a request to evaluate 23.227.38.65 and 23.227.38.32 and finetune them to URLs. I will be working on this. This request came via email. I will open an issue today for tracking.
 
 
 ### Version 6.7
-
 Total IoCs: 24,262 (IPs: 561, Hashes: 3530, URLs:~ 20,166 CVEs: 5)
 
 
 ### Version 6.6
-
 Total IoCs: 24,258 (IPs: 561, Hashes: 3530, URLs:~ 20,162 CVEs: 5)
 
 
 ### Version 6.5
-
 Total IoCs: 23,567 (IPs: 561, Hashes: 3530, URLs:~ 19,471 CVEs: 5)
 Bumping to 6.5 due to large addition of URLs.
 
@@ -81,51 +71,42 @@ Emergency update to remove covid-19-sounds.org
 
 
 ### Version 6.0
-
 Total IoCs: 20,763 (IPs: 550, Hashes: 3452, URLs:~ 16,756, CVEs: 5)
 Bumping to 6.0 due to large addition of URLs.
 
 
 ### Version 5.8
-
 Total IoCs: 14,730 (IPs: 550, Hashes: 3433, URLs:~ 10742, CVEs: 5)
 
 
 ### Version 5.7
-
 Total IoCs: 14,587 (IPs: 517, Hashes: 3337, URLs:~ 10728, CVEs: 5)
 
 
 ### Version 5.6
-
 Total IoCs: 14,305 (IPs: 517, Hashes: 3215, URLs:~ 10568, CVEs: 5)
 
 
 ### Version 5.5
-
 Total IoCs: 13,787 (IPs: 514, Hashes: 3124, URLs:~ 10144, CVEs: 5)
 
 
 ### Version 5.4
-
 Total IoCs: 13,567 (IPs: 514, Hashes: 3124, URLs:~ 9924, CVEs: 5)
 
 
 ### Version 5.3
-
 Total IoCs: 12,966 (IPs: 513, Hashes: 3191, URLs:~ 9257, CVEs: 5)
 
 
 ### Version 5.2.1
 #### Emergency update to remove domain: coronavirus3d.org which was ingested from CERT-US notficaion. Now removed from all IoC files.
 #### Confidence script is still ongoing. 
-
 Total IoCs: 12,594 (IPs: 513, Hashes: 3191, URLs:~ 8885, CVEs: 5)
 
 
 ### Version 5.2
 #### Confidence script is still ongoing. 
-
 Total IoCs: 12,595 (IPs: 513, Hashes: 3191, URLs:~ 8886, CVEs: 5)
 
 
