@@ -17,6 +17,11 @@ Wishing everyone good health.
 ### Last updated: 2302 hrs IST on 12-05-2020
 
 
+### Version 8.2
+Total IoCs: 44,055 (IPs: 573, Hashes: 3,581, URLs: ~39,890 CVEs: 5)
+#### Emergency update to remove invalid domain names. Total of 6 domains removed.
+
+
 ### Version 8.1
 Total IoCs: 44,055 (IPs: 573, Hashes: 3,581, URLs: ~39,896 CVEs: 5)
 
