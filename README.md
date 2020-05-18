@@ -14,7 +14,15 @@ DO NOT CLICK  ON ANY URLs or VISIT IP Addresses, their current state is unknown 
 
 Wishing everyone good health.
 
-### Last updated: 1137 hrs IST on 18-05-2020
+### Last updated: 2148 hrs IST on 18-05-2020
+
+
+### Version 9.9
+Total IoCs: 352,243 (IPs: 577; Hashes: 4,341; URLs/domains/hostname: ~3,47,319; CVEs: 6)
+
+#### Please apply this update to remove parsing issue introduced in version 9.8 All IOCs file. 
+
+#### A vulnerability has been identified in the implementation of the Android version of Australia's COVIDSafe contact tracing app that may affect several other contact tracing apps that share a similar architecture, such as Singapore's TraceTogether and Alberta's ABTraceTogether. This issue is being tracked using the CVE ID CVE-2020-12856. The vulnerability allows for long term tracking of users of the affected apps, and possibly enables other bluetooth-based attack vectors.
 
 
 ### Version 9.8
