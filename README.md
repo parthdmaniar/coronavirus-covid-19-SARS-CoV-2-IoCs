@@ -17,6 +17,12 @@ Wishing everyone good health.
 ### Last updated: 2148 hrs IST on 18-05-2020
 
 
+### Version 10
+Total IoCs: 352,243 (IPs: 577; Hashes: 4,341; URLs/domains/hostname: ~3,47,316; CVEs: 6)
+
+#### Emergency update to remove www.google.com and www.twitter.com
+
+
 ### Version 9.9
 Total IoCs: 352,243 (IPs: 577; Hashes: 4,341; URLs/domains/hostname: ~3,47,319; CVEs: 6)
 
