@@ -14,7 +14,13 @@ DO NOT CLICK  ON ANY URLs or VISIT IP Addresses, their current state is unknown 
 
 Wishing everyone good health.
 
-### Last updated: 2148 hrs IST on 18-05-2020
+### Last updated: 1845 hrs IST on 19-05-2020
+
+
+### Version 10.1
+Total IoCs: 353,409 (IPs: 577; Hashes: 4,341; URLs/domains/hostname: ~3,48,485; CVEs: 6)
+
+#### In this update I have checked top 1 million websites as per Alexa to remove any false positives which were introduced in 9.9 (removed in 10.) Interesting statistics to follow.
 
 
 ### Version 10
