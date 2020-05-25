@@ -17,7 +17,7 @@ Wishing everyone good health.
 ### Last updated: 1205 hrs IST on 25-05-2020
 
 
-### Version 10.6
+### Version 10.7
 Total IoCs: 359,810 (IPs: 577; Hashes: 4,365; URLs/domains/hostname: ~3,54,862; CVEs: 6)
 
 
