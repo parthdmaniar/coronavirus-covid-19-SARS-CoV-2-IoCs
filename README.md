@@ -12,9 +12,13 @@ DO NOT CLICK  ON ANY URLs or VISIT IP Addresses, their current state is unknown 
 
 ###  WHO has a WhatApp group for up-to-date information: http://bit.ly/who-covid19-whatsapp. Send a "hi" message to get started. 
 
-Wishing everyone good health.
+Wishing everyone good health and safety.
 
-### Last updated: 2224 hrs IST on 06-09-2020
+### Last updated: 1855 hrs IST on 12-09-2020
+
+
+### Version 14
+Total IoCs: 623,560 (IPs: 1322; Hashes: 9,110; URLs/domains/hostname: ~6,13,122; CVEs: 6)
 
 
 ### Version 13.6
