@@ -14,8 +14,12 @@ DO NOT CLICK  ON ANY URLs or VISIT IP Addresses, their current state is unknown 
 
 Wishing everyone good health and safety.
 
-### Last updated: 1000 hrs IST on 24-09-2020
+### Last updated: 2036 hrs IST on 24-09-2020
 
+
+### Version 14.3
+Total IoCs: 644,869 (IPs: 1336; Hashes: 9,114; URLs/domains/hostname: ~6,34,413; CVEs: 6)
+Removed hash: 9b1fbf0c11c520ae714af8aa9af12cfd48503eedecd7398d8992ee94d1b4dc37 as per request from twiiter. Source of the hash was IBM X-Force.
 
 ### Version 14.2
 Total IoCs: 644,870 (IPs: 1336; Hashes: 9,115; URLs/domains/hostname: ~6,34,413; CVEs: 6)
