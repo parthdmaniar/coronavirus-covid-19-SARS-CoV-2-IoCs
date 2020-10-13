@@ -14,10 +14,10 @@ DO NOT CLICK  ON ANY URLs or VISIT IP Addresses, their current state is unknown 
 
 Wishing everyone good health and safety.
 
-### If any of the IoC listed in the repository is a false-positive:
-### 1. You can contact me via Twitter at @parthmaniar
-### 2. Open an issue on GitHub.
-### 3. Email me on parth ?? maniar @ kellogg ?? ox ?? ac ?? uk (replace ?? with .) 
+#### If any of the IoC listed in the repository is a false-positive:
+#### 1. You can contact me via Twitter at @parthmaniar
+#### 2. Open an issue on GitHub.
+#### 3. Email me on parth ?? maniar @ kellogg ?? ox ?? ac ?? uk (replace ?? with .) 
 
 
 ### Last updated: 1343 hrs IST on 13-10-2020
