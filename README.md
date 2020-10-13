@@ -20,7 +20,11 @@ Wishing everyone good health and safety.
 ### 3. Email me on parth ?? maniar @ kellogg ?? ox ?? ac ?? uk (replace ?? with .) 
 
 
-### Last updated: 2036 hrs IST on 24-09-2020
+### Last updated: 1343 hrs IST on 13-10-2020
+
+
+### Version 14.4
+Total IoCs: 661,567 (IPs: 1335; Hashes: 9,114; URLs/domains/hostname: ~6,51,112; CVEs: 6)
 
 
 ### Version 14.3
