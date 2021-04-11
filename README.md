@@ -20,7 +20,17 @@ Wishing everyone good health and safety.
 #### 3. Email me on parth ?? maniar @ kellogg ?? ox ?? ac ?? uk (replace ?? with .) 
 
 
-### Last updated: 1343 hrs IST on 13-10-2020
+### Last updated: 22:58 hrs IST on 11-04-2020
+
+### Deprecation notice.
+
+I will be deprecating IoC's part of this project. I want to thank everyone who helped me - Sanket Yeram, Jayendra Kadam, Krutika Potdar & Rohit Chaurasia. 
+
+I will remove the IoCs on 30th April 2021.
+
+
+### Version 14.5
+Total IoCs: 661,567 (IPs: 1335; Hashes: 9,114; URLs/domains/hostname: ~6,51,112; CVEs: 6)
 
 
 ### Version 14.4
